@@ -1,6 +1,8 @@
-# :shell: Fix My Code :shell:
+# :shell: Fix My Code 0x00 :shell:
 
-In this project we were given broken code and were expected to fix it. To view the code in it's broken state see it in the respective directories readme.
+This project for fix my code was presented to us in the following [repo](https://intranet.hbtn.io/rltoken/V1o_qyMWRS-uCTQX1t5VrQ)
+
+We were required to view the broken code and debug what was going wrong, fixing the issues. The code in this repository is the fixed version.
 
 ## :running: Getting Started
 
